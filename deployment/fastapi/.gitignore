@@ -1,0 +1,8 @@
+*/**/__pycache__
+__pycache__
+*/**/*.h5
+.env
+
+/src/ai_model/**
+!/src/ai_model/**/
+!/src/ai_model/**/.gitkeep
